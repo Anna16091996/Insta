@@ -82,7 +82,7 @@ def read_posts(links):
             x += 1
     return all_posts
     
-login("ann_mihailovaa", "52ecgSS7%")
+login()
 
 accounts = open("list_of_links.txt").readlines()
 
